@@ -24,6 +24,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000.svg?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%20Core-512BD4.svg?style=flat-square&logo=.net&logoColor=white" alt=".NET Core Badge"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248.svg?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=white" />
@@ -47,16 +48,16 @@
 <hr>
 
 <p align="center">
-  <a href="https://github.com/duckgo24">
-    <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=duckgo24&show_icons=true&theme=dark&count_private=true&hide_border=true&text_color=ffffff&icon_color=FCAF3C&title_color=FF0066&bg_color=001122" />
+  <a href="https://github.com/caoviet24">
+    <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=caoviet24&show_icons=true&theme=dark&count_private=true&hide_border=true&text_color=ffffff&icon_color=FCAF3C&title_color=FF0066&bg_color=001122" />
   </a>
-  <a href="https://github.com/duckgo24">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckgo24&layout=compact&theme=dark&langs_count=6&hide_border=true&text_color=ffffff&title_color=FF0066&bg_color=001122" />
+  <a href="https://github.com/caoviet24">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoviet24&layout=compact&theme=dark&langs_count=6&hide_border=true&text_color=ffffff&title_color=FF0066&bg_color=001122" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://u8views.com/github/duckgo24">
+  <a href="https://u8views.com/github/caoviet24">
     <img src="https://u8views.com/api/v1/github/profiles/156434800/views/day-week-month-total-count.svg" />
   </a>
 </p>
